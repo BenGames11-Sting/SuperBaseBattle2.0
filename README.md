@@ -5,7 +5,7 @@ Based off Code from Bench3/theBCBroz/BenchCubed
 
 Made for Public Use at dev.bukkit.org
 
-Ecspecially for Creeperwood @ creeperwood.enjin.com
+Especially for Creeperwood @ creeperwood.enjin.com
  
  Coders:
  BenGames11
